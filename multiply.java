@@ -5,3 +5,4 @@ public class multiply {
         System.out.println(a*b);
     }
 }
+  
